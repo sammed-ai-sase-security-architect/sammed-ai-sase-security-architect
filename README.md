@@ -151,6 +151,7 @@ E → Educate   (DevSecOps, Shift-left Security)
 # 🔗 Let's Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sammed%20Mohole-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/sammed-mohole)  
+[![Email](https://img.shields.io/badge/Email-Sammed%20Mohole-red?logo=gmail&logoColor=white)](mailto:scmohole@gmail.com)
 
 ---
 
