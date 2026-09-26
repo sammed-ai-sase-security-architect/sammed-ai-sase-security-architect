@@ -193,5 +193,5 @@ Continuous Learning • AI Governance • DevSecOps • Continuous Improvement
 
 # ✍️ Security Philosophy  
 
-> **"I architect intelligent AI-SecOps systems where AI Agents, automation, and enterprise security converge — transforming security operations into intelligent, scalable, and measurable workflows."**
+> **"I architect intelligent AI-SecOps systems where AI Agents, automation, and enterprise security converge transforming security operations into intelligent, scalable, and measurable workflows."**
 
