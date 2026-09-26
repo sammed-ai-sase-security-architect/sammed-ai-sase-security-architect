@@ -1,58 +1,88 @@
 # 🚀 Hi, I'm Sammed Mohole  
 
-### 🔐 AI Security | SASE | Zero Trust | DevSecOps Architect  
+🤖 AI-SecOps | AI Operations | AI Security | SASE | Zero Trust Architect
 
-💡 *I design and secure large-scale enterprise systems where AI, Zero Trust, and multi-cloud architectures converge.*  
+💡 I design intelligent security operations where AI Agents, GenAI, automation, and enterprise security converge.
 
-📊 **Impact:** Secured 50K+ users • Automated 70% security ops • Reduced CVE exposure by 60%  
+📊 Impact: AI-SecOps & Firewall AIOps across Palo Alto & Fortinet • AI Agents + MCP + Python • Up to 70% automation • 50K+ enterprise endpoints
 
-📩 **Open to:** Senior SASE / AI Security / DevSecOps Roles (UAE & Global)  
-📧 **Email:** scmohole@gmail.com  
+📩 Open to: AI-SecOps / AI Security / AI Operations / SASE Architect Roles
+🌍 Location: UAE & Global
+📧 Email: scmohole@gmail.com
 
 ---
 
 # 🧠 About Me  
 
-I’m a **Security Architect with 10+ years of experience** building and securing enterprise infrastructure across **Banking, Telecom, and SaaS domains**.  
+I’m a **AI Security Architect with 10+ years of experience** designing and securing large-scale enterprise environments across **Banking, Telecom, and SaaS domains**.
 
-I specialize in:  
-- 🔐 **SASE & Zero Trust Architectures** (Prisma, Zscaler, Netskope)  
-- ☁️ **Cloud Security & DevSecOps** (AWS, Terraform, CI/CD)  
-- 🤖 **AI / LLM Security** (Prompt Injection, Threat Modeling, Observability)  
+My current focus is **AI Operations (AI Ops) and AI-SecOps** — applying **AI Agents, Agentic Workflows, GenAI, RAG, MCP, Python, APIs, and automation** to transform complex enterprise operations and security workflows into **intelligent, automated, and measurable operations**.
 
-💬 *I don’t just deploy security tools — I design systems that scale against modern AI-driven threats.*  
+I specialize in:
+
+* 🤖 **AI Operations (AI Ops)** — AI Agents, Agentic Workflows, GenAI, RAG, MCP, AI-driven automation
+* 🛡️ **AI-SecOps** — AI-assisted investigation, threat analysis, security operations, remediation workflows and observability
+* 🔐 **AI Security** — LLM Security, Prompt Injection Defense, AI Threat Modeling, Guardrails
+* ⚙️ **Intelligent Automation** — Python, Ansible, REST APIs, workflow automation and infrastructure operations
+* 🌐 **SASE & Zero Trust** — Prisma Access, Zscaler, Netskope, ZTNA
+* ☁️ **Cloud & DevSecOps** — AWS, Terraform, CI/CD and security automation
+
+💬 *I design intelligent AI Ops and AI-SecOps systems that connect AI Agents, enterprise knowledge, security platforms and automation turning manual operations into scalable, intelligent workflows.*
+
 
 ---
 
 # 🚀 What Makes Me Different  
 
-✔ Architect mindset with hands-on implementation  
-✔ Real enterprise-scale deployments (50K+ users, global networks)  
-✔ Strong blend of Network Security + Cloud + DevSecOps + AI Security  
-✔ Focus on automation, scalability, and measurable outcomes  
+✔ AI-first security operations mindset
+✔ Architect-level thinking with hands-on implementation
+✔ AI Agents + enterprise security automation
+✔ Real-world SASE, Zero Trust and network security experience
+✔ Python + APIs + MCP + automation workflows
+✔ Focus on measurable operational outcomes
+✔ Designed for scalable, governed and secure AI adoption
 
 ---
 
-# 📊 Impact Snapshot  
-
-- 🔐 Secured **50K+ endpoints** using Zero Trust (ZTNA)  
-- ⚙️ Automated **70% of operations** (Python, Ansible, APIs)  
-- 🌐 Migrated **3 global networks to SASE** (↓ latency by 40%)  
-- 🛡️ Reduced **CVE exposure by 60%** via DevSecOps pipelines  
-- 🤖 Secured **GenAI workloads** with validation & RBAC  
+📊 AI-SecOps Impact
+🤖 Automated up to 70% of repetitive security operations
+⚙️ Built AI-assisted firewall investigation and operations workflows
+🔎 Reduced manual investigation effort through AI-assisted analysis
+🚀 Applied AI Agents + MCP + APIs to enterprise security workflows
+🛡️ Reduced CVE exposure by 60% through DevSecOps automation
+🌐 Modernized enterprise security through SASE + Zero Trust
+📈 Focused on reducing operational effort, investigation time and security errors
 
 ---
 
-# 🧠 S.E.C.U.R.E Framework  
+# 🧠 A.I.-S.E.C.U.R.E Framework
 
-*A practical framework for building scalable, audit-ready security systems*  
+*A practical framework for building intelligent, automated, and governed AI Operations & AI-SecOps.*
 
-S → Secure    (ZTNA, WAF, Segmentation)  
-E → Evaluate  (SIEM, Threat Detection, Vulnerability Mgmt)  
-C → Comply    (ISO 27001, SOC2, NIST)  
-U → Upgrade   (SASE, Cloud, SD-WAN)  
-R → Respond   (SOAR, Incident Response, XDR)  
-E → Educate   (DevSecOps, Shift-left Security)  
+**A → Automate**
+AI Agents • Python • Ansible • APIs • Workflow Automation
+
+**I → Investigate**
+AI-Assisted Investigation • Threat Analysis • Root-Cause Analysis • Security Intelligence
+
+**S → Secure**
+AI Security • LLM Security • Guardrails • Zero Trust • Policy Enforcement
+
+**E → Engineer**
+Agentic Workflows • RAG • MCP • AI Integration • Secure Architecture
+
+**C → Contextualize**
+Enterprise Knowledge • RAG • Security Telemetry • AI Observability
+
+**U → Understand**
+AI-Driven Analytics • Anomaly Detection • Risk Analysis • Operational Intelligence
+
+**R → Respond**
+AI-Assisted Remediation • SOAR • Firewall Automation • Human-in-the-Loop
+
+**E → Evolve**
+Continuous Learning • AI Governance • DevSecOps • Continuous Improvement
+
 
 ---
 
@@ -83,20 +113,26 @@ E → Educate   (DevSecOps, Shift-left Security)
 
 # 🏗️ Architecture Portfolio  
 
-- 🔐 SASE (Prisma vs Zscaler vs Netskope)  
-- 🌐 SD-WAN + Zero Trust Enterprise Design  
-- ☁️ AWS Secure Multi-Cloud Architecture  
-- 🤖 AI Security & Threat Detection Systems  
+* 🤖 **AI Ops & AI-SecOps** — AI Agents, Agentic Workflows, GenAI, RAG, MCP, AI-driven security automation
+* 🔐 **Firewall AIOps** — Palo Alto & Fortinet automation, AI-assisted investigation, policy analysis and operational workflows
+* 🧠 **AI Security Architecture** — LLM Security, Prompt Injection Defense, Guardrails, AI Threat Detection & Observability
+* 🌐 **SASE & Zero Trust** — Prisma Access, Zscaler, Netskope, ZTNA, SWG & CASB
+* ☁️ **Cloud & DevSecOps** — AWS Secure Architecture, Terraform, CI/CD & Security Automation
+* ⚙️ **Intelligent Security Automation** — Python, Ansible, REST APIs, MCP & Human-in-the-Loop workflows
+
 
 ---
 
 # 🏆 Key Achievements  
 
-- 🚀 Led SASE & ZTNA deployments (Prisma, Zscaler, Netskope)  
-- 🔐 Migrated 50+ Cisco ASA → Palo Alto NGFW  
-- 🌐 Deployed SD-WAN across 60+ branches  
-- ⚙️ Built DevSecOps pipelines (Tenable, SonarQube, Checkov)  
-- ☁️ Designed secure multi-cloud architectures (AWS)  
+1. 🤖 **Built AI-Agent-driven firewall automation** for **Palo Alto & Fortinet**, integrating AI Agents, MCP, Python and APIs for security operations workflows
+2. 🔎 Developed **AI-assisted firewall investigation, analysis and operational workflows** to reduce manual security operations
+3. 🚀 Led enterprise **SASE & Zero Trust** transformations using Prisma Access, Zscaler and Netskope
+4. 🔐 Migrated **50+ Cisco ASA → Palo Alto NGFW**
+5. 🌐 Deployed **SD-WAN across 60+ branches**
+6. ⚙️ Built **DevSecOps security pipelines** using Tenable, SonarQube and Checkov
+7. ☁️ Designed secure **AWS multi-cloud architectures** and automated security operations
+
 
 ---
 
@@ -157,4 +193,5 @@ E → Educate   (DevSecOps, Shift-left Security)
 
 # ✍️ Security Philosophy  
 
-> "I architect intelligent security systems where AI, Zero Trust, and SASE converge — enabling secure innovation at scale."  
+> **"I architect intelligent AI-SecOps systems where AI Agents, automation, and enterprise security converge — transforming security operations into intelligent, scalable, and measurable workflows."**
+
