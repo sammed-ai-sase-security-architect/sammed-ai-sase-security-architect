@@ -7,7 +7,7 @@
 📊 Impact: AI-SecOps & Firewall AIOps across Palo Alto & Fortinet • AI Agents + MCP + Python • Up to 70% automation • 50K+ enterprise endpoints
 
 📩 Open to: AI-SecOps / AI Security / AI Operations / SASE Architect Roles
-🌍 Location: UAE & Global
+🌍 Location: India,UAE & Global
 📧 Email: scmohole@gmail.com
 
 ---
